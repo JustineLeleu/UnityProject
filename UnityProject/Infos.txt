@@ -1,0 +1,4 @@
+Actions :
+Space : jump
+E : attack
+Hold left shift : run
