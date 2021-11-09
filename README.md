@@ -1,6 +1,6 @@
 # UnityProject
 
 Actions :
-Space - Jump
-E - Attack
-Hold left shift - Run
+- Space for Jump
+- E for Attack
+- Hold left shift for Run
